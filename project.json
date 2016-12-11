@@ -49,7 +49,8 @@
   "buildOptions": {
     "emitEntryPoint": true,
     "preserveCompilationContext": true,
-    "outputName": "inventory"
+    "outputName": "inventory",
+    "debugType": "portable"
   },
 
   "runtimeOptions": {
